@@ -1,4 +1,4 @@
-__version__ = "1.3"
+__version__ = "1.3.1"
 __author__ = "phpsh@googlegroups.com"
 __date__ = "Nov 20, 2008"
 
